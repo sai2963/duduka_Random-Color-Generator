@@ -1,8 +1,10 @@
 body{
-    margin: 10px;
+margin: 0;
 }
 .containertext-center{
-    margin: 100px 50px;
+    width: 1200px;
+    margin: 100px 150px
+
    
 
    
@@ -12,7 +14,7 @@ body{
     border: 1px solid black;
     display:flex;
     flex-wrap: wrap;
-
+    margin: 3px;
     height: 150px;
     
 
