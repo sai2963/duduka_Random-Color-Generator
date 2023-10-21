@@ -1,0 +1,34 @@
+body{
+    margin: 10px;
+}
+.containertext-center{
+    margin: 100px 50px;
+   
+
+   
+   
+}
+.col{
+    border: 1px solid black;
+    display:flex;
+    flex-wrap: wrap;
+
+    height: 150px;
+    
+
+}
+.col:hover{
+    transform: scale(1.03);
+}
+.p-3{
+
+    width: 60%;
+    margin: 10px auto;
+   
+    
+}
+button{
+    background-color: chartreuse;
+    
+   
+}
